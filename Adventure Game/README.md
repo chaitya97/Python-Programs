@@ -51,23 +51,34 @@ No Skipping: Players must make a choice from the presented options. Any invalid 
 ---
 
 ## 📚 Story Scenarios
-1. Enchanted Forest
+
+### 1. Enchanted Forest
 You enter a mysterious forest filled with glowing trees and whispering winds. At a point, the road splits, and you must decide:
 
-1. Follow the Glowing Path: Encounter a wise old elf who offers to guide you through the forest. You must choose whether to trust him or run away.
+- **Follow the Glowing Path:**  
+  Encounter a wise old elf who offers to guide you through the forest. You must choose whether to trust him or run away.
 
-2. Follow the Dark Trail: Venture into the unknown where shadow wolves await, threatening to trap you forever.
+- **Follow the Dark Trail:**  
+  Venture into the unknown where shadow wolves await, threatening to trap you forever.
 
-2. Castle Escape
+---
+
+### 2. Castle Escape
 You wake up in a dungeon within a medieval castle, chains rattling and distant screams echoing. You see a rusty door slightly open and a narrow hole in the wall. Choose your escape route:
 
-1. Sneak through the Hole: You crawl into the castle's armory where you meet a friendly guard. Choose whether to sneak past him or wake him up and ask for help.
+- **Sneak through the Hole:**  
+  You crawl into the castle's armory where you meet a friendly guard. Choose whether to sneak past him or wake him up and ask for help.
 
-2. Push Open the Rusty Door: The door creaks loudly, alerting the guard on patrol, leading to your capture.
+- **Push Open the Rusty Door:**  
+  The door creaks loudly, alerting the guard on patrol, leading to your capture.
 
-3. Space Mission
-You’re aboard the spaceship Nova-9, orbiting an unknown planet when the engine fails and oxygen levels drop. You must act fast:
+---
 
-1. Attempt Emergency Repairs: Rush to the engine room and make a choice to repair the engine, either by replacing a capacitor or bypassing the circuit manually.
+### 3. Space Mission
+You’re aboard the spaceship *Nova-9*, orbiting an unknown planet when the engine fails and oxygen levels drop. You must act fast:
 
-2. Send a Distress Signal: Send a signal to an alien ship, but they mistake it for a threat, destroying your ship.
+- **Attempt Emergency Repairs:**  
+  Rush to the engine room and make a choice to repair the engine, either by replacing a capacitor or bypassing the circuit manually.
+
+- **Send a Distress Signal:**  
+  Send a signal to an alien ship, but they mistake it for a threat, destroying your ship.
