@@ -31,22 +31,22 @@ python AdventureGame.py
 ```
 
 ## 🌍 Game Flow
-Choose an Adventure: Upon starting the game, the user is prompted to select one of three adventures: Enchanted Forest, Castle Escape, or Space Mission.
+1. Choose an Adventure: Upon starting the game, the user is prompted to select one of three adventures: Enchanted Forest, Castle Escape, or Space Mission.
 
-Make Choices: Each scenario offers a series of choices that impact the outcome of the story.
+2. Make Choices: Each scenario offers a series of choices that impact the outcome of the story.
 
-Endings: Depending on the user's decisions, the game can either end with victory (WIN) or failure (LOSE).
+3. Endings: Depending on the user's decisions, the game can either end with victory (WIN) or failure (LOSE).
 
 ---
 
 ## 📎 Game Rules
-Valid Input: Players must choose between valid options (1 or 2) when prompted.
+1. Valid Input: Players must choose between valid options (1 or 2) when prompted.
 
-Story Paths: Each adventure has multiple paths, and the player's decisions affect the final outcome.
+2. Story Paths: Each adventure has multiple paths, and the player's decisions affect the final outcome.
 
-Game Restart: Once an adventure concludes (WIN or LOSE), the game exits, but you can restart by running the script again.
+3. Game Restart: Once an adventure concludes (WIN or LOSE), the game exits, but you can restart by running the script again.
 
-No Skipping: Players must make a choice from the presented options. Any invalid choice will be prompted again until a valid option is selected.
+4. No Skipping: Players must make a choice from the presented options. Any invalid choice will be prompted again until a valid option is selected.
 
 ---
 
