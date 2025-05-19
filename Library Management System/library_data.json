@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Book",
+        "title": "Harry Potter",
+        "author": "J. K. Rowling",
+        "year": "1997",
+        "extra": "Fantasy"
+    }
+]
