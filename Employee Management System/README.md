@@ -3,8 +3,6 @@
 A command-line based **Employee Management System** written in Python that supports managing different types of employees such as Managers, Developers, and Freelancers. The system demonstrates object-oriented programming concepts like inheritance and multiple inheritance, and stores employee data in a JSON file.
 
 
----
-
 ## 📋 Features
 
 - ✅ Add Employees with roles: Manager, Developer, Freelancer
@@ -14,13 +12,13 @@ A command-line based **Employee Management System** written in Python that suppo
 - 🔄 Role-specific fields (e.g., Team Size, Programming Language, Hours Worked, Hourly Rate)
 
 
----
+
 
 ## 🛠️ Requirements
 
 - Python 3.x
 
----
+
 
 ## 🚀 How to Run
 
@@ -32,7 +30,7 @@ A command-line based **Employee Management System** written in Python that suppo
 python EmployeeManagement.py
 ```
 
----
+
 
 ## 📋 Role Details
 | Role       | Extra Input(s)            | Example Input |
@@ -42,7 +40,7 @@ python EmployeeManagement.py
 | Freelancer | Hours Worked, Hourly Rate | 20, 50        |
 
 
----
+
 
 ## 💾 Data Storage Format
 Employees are saved in a file named Employees.json in JSON format. Each employee is stored as an object with the following structure:
@@ -60,7 +58,7 @@ Employees are saved in a file named Employees.json in JSON format. Each employee
 
 "extra": Role-specific data, e.g., team size for managers, language for developers, or hours and rate for freelancers.
 
----
+
 
 ## ❗ Business Rules & Notes
 🔢 Employee IDs must be unique.
