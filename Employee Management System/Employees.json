@@ -1,0 +1,26 @@
+[
+    {
+        "type": "Developer",
+        "eid": "1",
+        "name": "Mr. Shah",
+        "department": "Software Development",
+        "extra": "Python"
+    },
+    {
+        "type": "Freelancer",
+        "eid": "2",
+        "name": "Mrs. Shah",
+        "department": "Development",
+        "extra": [
+            40,
+            40
+        ]
+    },
+    {
+        "type": "Manager",
+        "eid": "3",
+        "name": "Miss Shah",
+        "department": "Software Development",
+        "extra": 10
+    }
+]
